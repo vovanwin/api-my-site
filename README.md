@@ -12,7 +12,7 @@ Api сервис сделаный на основе echo pagoda, но перед
 После проверки репозитория из корня запустите контейнеры Docker для базы данных и кеша, выполнив make up:
 
 ```
-git clone git@github.com:mikestefanello/pagoda.git
+git clone git@github.com:vovanwun/api-my-site.git
 cd pagoda
 make up
 ```
